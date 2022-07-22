@@ -25,8 +25,8 @@ Analysis
 
 Tools
 =====
-# Software: Python 3.9.7 and Visual Studio Code v1.692.2
-# Data: election_results.csv (provided by Tec de Monterrey)
+Software: Python 3.9.7 and Visual Studio Code v1.692.2
+Data: election_results.csv (provided by Tec de Monterrey)
 
 Results
 =======
