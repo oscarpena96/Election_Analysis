@@ -61,3 +61,13 @@ The winner for the election was Diana DeGette with a total of 272,892 winning wi
 The code worked perfectly for this election but there is 2 different ways that we can modified it to get better results
 1. Colabella (2022) mentions that we can give different weight to each county, altough he talks about the presidential election we can put that idea in to use with our study determining wich county has more weight and decide the winner based on the votes and weight from each county.
 2. We can puth both the coutny and candidate in the same loop so it´s just one loop and it runs faster
+
+
+
+![](Election_analysis_result_VST.png)
+
+image 1.- Election analysis result from the visual studio code command prompt
+
+![](election_analysis_result_txt.png) 
+
+image 2.- Election analysis reslut from the text file in the analysis folder
